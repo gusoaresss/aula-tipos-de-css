@@ -1,2 +1,2 @@
-# aula-tipos-de-css
-Aula de CSS , Git &amp; Github | 28/08/2025
+# tipos-de-css
+Exercício sobre os tipos de CSS: inline, embutido e externo.
